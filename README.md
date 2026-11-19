@@ -4,7 +4,7 @@
 Blinkit ke sales data ka complete analysis Power BI me kiya.
 
 ## Dashboard Preview
-![Dashboard](BLINKIT PROJECT.jpeg)
+![Dashboard ](BLINKIT%20PROJECT.jpeg)
 
 ## Key Insights
 - Total Sales: 1M+
